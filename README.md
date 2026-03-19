@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Isaac!
 
-💻 Back-end Developer
+💻 Backend Developer
 🚀 Learning Flask, Nodejs, API's.
 
 ---
