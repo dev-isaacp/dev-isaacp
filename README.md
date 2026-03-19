@@ -1,24 +1,28 @@
-# 👋 Olá, eu sou o Isaa!
+# 👋 Hey, I'm Isaac!
 
-💻 Desenvolvedor Back-end  
-🚀 Aprendendo Flask e APIs  
-
----
-
-## 🚀 Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+💻 Back-end Developer
+🚀 Learning Flask, Nodejs, API's.
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Tecnologys
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+</p>
 
 ---
 
-## 🌐 Contato
+## 📊 Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-isaacp&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaac-alves-3770063a7)
